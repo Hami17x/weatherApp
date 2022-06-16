@@ -1,6 +1,6 @@
-# weather
+# Weather App
 
-A new Flutter project.
+Flutter Weather app with OpenWeather API, Dio, Provider and Dark Light Theme
 
 ## Getting Started
 
