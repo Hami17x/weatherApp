@@ -4,7 +4,8 @@ Flutter Weather app with OpenWeather API, Dio, Provider and Dark Light Theme
 
 ## Getting Started
 
-image.png
+![image](https://user-images.githubusercontent.com/92781475/174166042-6ebe86f6-eef7-4bd9-930a-0f3325252605.png)
+
 
 This project is a starting point for a Flutter application.
 
